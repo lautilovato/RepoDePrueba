@@ -1,0 +1,7 @@
+setup.py
+paquete/__init__.py
+paquete/funciones_mats.py
+paquete_mats.egg-info/PKG-INFO
+paquete_mats.egg-info/SOURCES.txt
+paquete_mats.egg-info/dependency_links.txt
+paquete_mats.egg-info/top_level.txt
