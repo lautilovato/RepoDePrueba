@@ -18,3 +18,4 @@ if len(sys.argv) == 3:
     print(f"La potencia entre {n1} y {n2} da: {potencia(n1, n2)}")
 else:
     print("Cantidad de argumentos incorrectos(Ingrese dos números)")
+
